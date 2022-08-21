@@ -1,0 +1,3 @@
+This is my page 1
+First ever Git project examples
+Getting ready to
